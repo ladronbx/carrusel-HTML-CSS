@@ -10,4 +10,4 @@ El diseño visual del carrusel se gestiona a través de estilos `CSS` personaliz
 
 Este carrusel de imágenes es una excelente manera de presentar visualmente diversas categorías de contenido mientras se mantiene una **interacción sencilla pero atractiva**. El código fuente proporcionado en este repositorio permite comprender cómo se logra esta funcionalidad y animación con `HTML` y `CSS`.
 
-Siéntete libre de explorar las imágenes y personalizar el código para adaptarlo a tus propias necesidades. Esperamos que este carrusel de imágenes añada un toque visualmente atractivo a tu sitio web o proyecto.
+Siéntete libre de explorar las imágenes y personalizar el código para adaptarlo a tus propias necesidades. Espero que este carrusel de imágenes añada un toque visualmente atractivo a tu sitio web o proyecto.
