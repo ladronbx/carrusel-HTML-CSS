@@ -1,4 +1,6 @@
-# Interactive Carousel
+# Interactive Carousel 🚀
+
+ Here you can see the interactive carousel in action : [Interactive carousel](https://ladronbx.github.io/carrusel-HTML-CSS/) 
 
 This project features an image carousel developed using `HTML` and `CSS`. **The carousel displays a series of images in a horizontal layout, allowing users to explore different categories of content interactively.**
 
